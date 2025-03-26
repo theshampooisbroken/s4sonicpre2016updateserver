@@ -1,0 +1,41 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Outline Or No Outline",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"Outline",
+               "Description":[
+                  "choose to have an outline or not.",
+               ],
+               "Type":"line",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"0"
+            },
+         ]
+      }
+   ],
+   "Enums":{
+      "line":[
+         {
+            "DisplayName":"Outline",
+            "Value":"outline",
+            "Description":[
+               "outline duh.",
+            ]
+         },
+		 {
+            "DisplayName":"No Outline",
+            "Value":"nooutline",
+            "Description":[
+               "no outline ofc",
+            ]
+         },
+      ],
+   },
+   "IniFile":"mod.ini"
+}
