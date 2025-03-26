@@ -1,5 +1,10 @@
-add +Sonic.ar.00
-add +Sonic.arl
-add /Inspire/chara/+SonicEVRoot.ar.00
-add /Inspire/chara/+SonicEVRoot.arl
+add Config.json
+add /nooutline/+Sonic.ar.00
+add /nooutline/+Sonic.arl
+add /nooutline/Inspire/chara/+SonicEVRoot.ar.00
+add /nooutline/Inspire/chara/+SonicEVRoot.arl
+add /outline/+Sonic.ar.00
+add /outline/+Sonic.arl
+add /outline/Inspire/chara/+SonicEVRoot.ar.00
+add /outline/Inspire/chara/+SonicEVRoot.arl
 add mod.ini
